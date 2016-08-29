@@ -1,0 +1,23 @@
+//
+//  IOSVersionsAutomaticUpdate.pch
+//  IOSVersionsAutomaticUpdate
+//
+//  Created by zhangPeng on 16/8/27.
+//  Copyright © 2016年 ZhangPeng. All rights reserved.
+//
+
+#ifndef IOSVersionsAutomaticUpdate_pch
+#define IOSVersionsAutomaticUpdate_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* IOSVersionsAutomaticUpdate_pch */
+
+
+#define NOTI_CENTER [NSNotificationCenter defaultCenter]
+
+
+#import "AFNetworking.h"
+
+
